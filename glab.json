@@ -1,0 +1,26 @@
+{
+    "version": "1.7.0",
+    "architecture": {
+        "32bit": {
+            "url": "http://github.com/profclems/glab/releases/v1.7.0/glab_1.7.0_windows_386.zip",
+            "bin": [
+                "bin/glab.exe"
+            ],
+            "hash": "ba6a3503bb0609e4128ae049e404059368e2ccb508fa4814a7a30363919bb7f0"
+        },
+        "64bit": {
+            "url": "http://github.com/profclems/glab/releases/v1.7.0/glab_1.7.0_Windows_x86_64.tar.gz",
+            "bin": [
+                "bin/glab.exe"
+            ],
+            "hash": "f170f758d5b625ef26ca4bf2c2d60414038f01631b205bae8664de7b5e0556e4"
+        }
+    },
+    "homepage": "https://github.com/profclems/glab",
+    "license": "MIT",
+    "description": "An open source gitlab cli tool",
+    "persist": [
+        ".glab-cli",
+        ".env"
+    ]
+}
