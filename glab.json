@@ -2,18 +2,18 @@
     "version": "1.11.0-pre2",
     "architecture": {
         "32bit": {
-            "url": "http://github.com/profclems/glab/releases/download/v1.11.0-pre2/glab_1.11.0-pre2_windows_386.zip",
+            "url": "http://github.com/profclems/glab/releases/download/v1.11.0-pre2/glab_1.11.0-pre2_Windows_i386.tar.gz",
             "bin": [
                 "bin/glab.exe"
             ],
-            "hash": "5f06a989019d753ef0584796a305661c8f8e09a13ba17657d8f20bbf50acdb7b"
+            "hash": "222db2173ec9cda1e5246d2add89667f37fc1229114d478561b7de077e5524e6"
         },
         "64bit": {
             "url": "http://github.com/profclems/glab/releases/download/v1.11.0-pre2/glab_1.11.0-pre2_Windows_x86_64.tar.gz",
             "bin": [
                 "bin/glab.exe"
             ],
-            "hash": "8396729f8dc5d73a0ad1452be2328e642f2648063c09e39a69b6169ebd5a1019"
+            "hash": "981e12a93058e4d51ba5e0ae0e5c1f801616b18f4a7efba834f23d640667fa01"
         }
     },
     "homepage": "https://github.com/profclems/glab",
