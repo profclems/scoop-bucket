@@ -6,14 +6,14 @@
             "bin": [
                 "bin/glab.exe"
             ],
-            "hash": "8c420ffcf4530c3924245cce369fed691cd26771661efc389742efa89e722d68"
+            "hash": "47cdfbe62701c7aaf559858761581f8cfec5f34550ab680bcf4b0c1d61e7427b"
         },
         "64bit": {
             "url": "http://github.com/profclems/glab/releases/download/v1.12.0/glab_1.12.0_Windows_x86_64.tar.gz",
             "bin": [
                 "bin/glab.exe"
             ],
-            "hash": "1447b715add9e4762df8fac6ca4e1e7d146087aebdd52a47faaa8ad2994ac0ea"
+            "hash": "f5b3e84ebd0f0b327322c087b2d9dfd5d59865906f4b8794eee80abb72886ce2"
         }
     },
     "homepage": "https://github.com/profclems/glab",
